@@ -1,0 +1,9 @@
+CORRECTED FINAL XGBOOST V2 MODEL
+================================
+Training rows: 1200000
+Positive rows: 300000
+Negative rows: 900000
+Candidate strategy: exact + token Top-50
+Features: 25
+Training uses all available labeled training data.
+No train/validation split was used.

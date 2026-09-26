@@ -1,0 +1,10 @@
+STRONG XGBOOST ENTITY RESOLUTION MODEL
+============================================================
+Training rows: 1,000,000
+Validation rows: 400,000
+Positive training: 250,000
+Negative training: 750,000
+Best threshold: 0.8200
+Precision: 0.997567
+Recall: 0.975690
+F0.5: 0.993113

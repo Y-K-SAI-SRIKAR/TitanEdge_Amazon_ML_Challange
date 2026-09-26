@@ -1,2 +1,4 @@
 .env
 /dataset
+
+blocking_experiment.duckdb.tmp/
